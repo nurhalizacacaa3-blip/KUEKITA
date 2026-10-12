@@ -1,0 +1,6 @@
+{
+  "name": "KueKita",
+  "description": "Web Katalog & Pemesanan Kue - Freshly Baked For Every Moment",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
